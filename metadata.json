@@ -1,0 +1,10 @@
+{
+  "name": "German Voice Conversation Partner & Language Tutor",
+  "description": "Natural German spoken conversation partner and adaptive A2-B1 tutor with voice interaction, gentle corrections, pronunciation tips, and session review.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
